@@ -1,8 +1,5 @@
-# Problem
-- Whether water is utilised for drinking, domestic use, food production, or recreational activities, it is crucial for the public's health to have access to safe, readily available water. The decrease of poverty and the expansion of the economy can be significantly aided by better water supply, sanitary conditions, and water resource management. It is well recognised that unsanitary conditions and tainted water contribute to the spread of illnesses like cholera, diarrhoea, dysentery, hepatitis A, typhoid, and polio. Health concerns for those without access to sanitary facilities and clean water can be avoided.
-
 # Goal
-- to distinguish between potable and non-potable water using machine learning techniques, and to comprehend what makes water safe to drink.
+- to detect the presence of a tumor using machine learning techniques.
 
 # Dataset
 The dataset contains data of tumor for 569 persons.
